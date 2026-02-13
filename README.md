@@ -11,19 +11,19 @@ Ideal para:
 - Herramientas de accesibilidad
 - Emulación de mandos en PC sin hardware físico
 
-## Instalación rápida (Setup)
+## Instalación rápida (Setup): 
 
-1. **Instala ViGEm**  
-   Descarga e instala el driver oficial desde: **[ViGEm](https://github.com/nefarius/ViGEmBus/releases)**
-  
-2. **Creditos para evilC por AHK-ViGEm-Bus v1**  
-   [**AHK-ViGEm-Bus v1**](https://github.com/evilC/AHK-ViGEm-Bus/tree/master?tab=readme-ov-file#ahk-vigem-bus)
+1. Descarga e instala el driver oficial desde: **[ViGEm](https://github.com/nefarius/ViGEmBus/releases)**
 
-3. **Creditos para Lexikos por CLR v2**  
-   [**CLR v2 Original**](https://github.com/Lexikos/CLR.ahk)  
- 
-4. **Desbloquea el archivo** (muy importante en Windows)  
+2. **Desbloquea el archivo** (muy importante en Windows)  
    - Clic derecho sobre el .zip descargado  
    - Propiedades  
    - Marca la casilla **Desbloquear** (Unblock)  
    - Aceptar
+   
+
+   **Creditos para evilC por AHK-ViGEm-Bus v1**  
+   [**AHK-ViGEm-Bus v1**](https://github.com/evilC/AHK-ViGEm-Bus/tree/master?tab=readme-ov-file#ahk-vigem-bus)
+
+   **Creditos para Lexikos por CLR v2**  
+   [**CLR v2 Original**](https://github.com/Lexikos/CLR.ahk)
