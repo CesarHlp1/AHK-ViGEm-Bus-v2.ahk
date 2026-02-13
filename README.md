@@ -3,7 +3,7 @@
 **Un wrapper en AutoHotkey para ViGEm** – Emula controles virtuales Xbox 360 y DualShock 4 de forma sencilla desde scripts AHK.
 
 ## Descripción
-AHK-ViGEm-Bus es una librería / wrapper simple pero potente que permite a scripts de **AutoHotkey** crear y controlar mandos virtuales (Xbox 360 y DualShock 4) usando el excelente backend .
+AHK-ViGEm-Bus es una librería / wrapper simple pero potente que permite a scripts de **AutoHotkey** crear y controlar mandos virtuales (Xbox 360 y DualShock 4)
 
 Ideal para:
 - Juegos que no reconocen bien teclado/ratón
